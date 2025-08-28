@@ -1,0 +1,4 @@
+myCheatSheet.txt
+__pycache__/
+data/
+*.db
